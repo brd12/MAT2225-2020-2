@@ -1,6 +1,6 @@
 # Teoría de Números (MAT2225) - 2020-2
 
-### Last Update: 14/08 (Enunciado/Solución/Video Ayudantía 1)
+### Last Update: 23/08 (Enunciado/Solución/Video Ayudantía 2)
 
 ## Ayudantías
 
