@@ -22,4 +22,4 @@ Ayudantía 08 (RSA)(!) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blo
 
 ## [Videos](https://drive.google.com/drive/folders/1j34ElOFyiAv8ZpPtQ31o9iupygihMcrL?usp=sharing)
 
-<sub>Enunciados más cortos dado que se muestran soluciones de interrogación. </sub>
+<sub>(!)Enunciados más cortos dado que se muestran soluciones de interrogación. </sub>
