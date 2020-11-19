@@ -24,7 +24,7 @@ Ayudantía 09 (Reciprocidad cuadrática) - [Enunciado](https://github.com/brd12/
 
 Ayudantía 10 (Reciprocidad cuadrática - Reducción de matrices en Z) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado10.pdf) - [Solución](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n10.pdf)
 
-Ayudantía 11 (Álgbra lineal sobre Z - Reciprocidad cuadrática) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado11.pdf) - [Solución (falta 3b)](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n11%20(parcial).pdf)
+Ayudantía 11 (Álgbra lineal sobre Z - Reciprocidad cuadrática) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado11.pdf) - [Solución (falta 3b)](https://www.overleaf.com/read/htpjgxdksrcm)
 
 Ayudantía 12 (Función Zeta y caracteres) - [Enunciado (aún no disponible)](https://www.youtube.com/watch?v=rvrZJ5C_Nwg&feature=youtu.be&t=143) - [Solución (aún no disponible)](https://youtu.be/l-NidcMz_xk?t=8)
 
