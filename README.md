@@ -19,9 +19,15 @@ Ayudantía 06 (Orden) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob
 
 Ayudantía 07 (Raíces Primitivas) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado07.pdf) - [Solución (sin bonus)](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n07%20(sin%20bonus).pdf)
 
-Ayudantía 08 (RSA)(!) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado08.pdf) - [Solución (aun no disponible)](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n08.pdf)
+Ayudantía 08 (RSA)(!) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado08.pdf) - [Solución](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n08.pdf)
 
-Ayudantía 08 (Reciprocidad cuadrática) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado09.pdf) - [Solución (aun no disponible)](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n09.pdf)
+Ayudantía 09 (Reciprocidad cuadrática) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado09.pdf) - [Solución](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n09.pdf)
+
+Ayudantía 10 (Reciprocidad cuadrática - Reducción de matrices en Z) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado10.pdf) - [Solución](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n10.pdf)
+
+Ayudantía 11 (Álgbra lineal sobre Z - Reciprocidad cuadrática) - [Enunciado](https://github.com/brd12/MAT2225-2020-2/blob/Enunciados/Enunciado11.pdf) - [Solución (falta 3b)](https://github.com/brd12/MAT2225-2020-2/blob/Soluciones/Soluci%C3%B3n11%20(parcial).pdf)
+
+Ayudantía 12 (Función Zeta y caracteres) - [Enunciado (aún no disponible)](https://www.youtube.com/watch?v=rvrZJ5C_Nwg&feature=youtu.be&t=143) - [Solución (aún no disponible)](https://youtu.be/l-NidcMz_xk?t=8)
 
 ## [Videos](https://drive.google.com/drive/folders/1j34ElOFyiAv8ZpPtQ31o9iupygihMcrL?usp=sharing)
 
