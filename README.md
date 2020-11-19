@@ -1,7 +1,6 @@
 # Teoría de Números (MAT2225) - 2020-2
 
-### Last Update: 17/11 (Ayudantía 9)
-(Ayudantías 10-12 estarán en la noche)
+### Last Update: 19/11 (Ayudantía 11)
 
 ## Ayudantías
 
