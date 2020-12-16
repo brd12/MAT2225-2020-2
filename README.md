@@ -28,6 +28,14 @@ Ayudantía 11 (Álgbra lineal sobre Z - Reciprocidad cuadrática) - [Enunciado](
 
 Ayudantía 12 (Función Zeta y caracteres) - [Enunciado (aún no disponible)](https://www.youtube.com/watch?v=rvrZJ5C_Nwg&feature=youtu.be&t=143) - [Solución (aún no disponible)](https://youtu.be/l-NidcMz_xk?t=8)
 
+[13](https://www.overleaf.com/read/wsrcmpdskxxw)
+
+[14](https://www.overleaf.com/read/vccpbwfvrjgs)
+
+[15](https://www.overleaf.com/read/fmwhyycfmgtc)
+
+
+
 ## [Videos](https://drive.google.com/drive/folders/1j34ElOFyiAv8ZpPtQ31o9iupygihMcrL?usp=sharing)
 
 <sub>(!)Enunciados más cortos dado que se muestran soluciones de interrogación. </sub>
